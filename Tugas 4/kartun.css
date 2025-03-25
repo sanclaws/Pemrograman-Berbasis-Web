@@ -1,0 +1,27 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-body {
+    flex-grow: 1;
+}
+.container-form {
+    max-width: 700px;
+    margin: center;
+}
+
+label {
+    display: inline;
+    width: 100px; 
+    text-align: center;
+    margin-right: 10px;
+}
+
+#Logo {
+    font-weight: bold;
+
+}
+
+
